@@ -1,0 +1,20 @@
+{
+    "playing": false,
+    "song": {
+        "title": null,
+        "artist": null,
+        "album": null,
+        "albumArt": null
+    },
+    "rating": {
+        "liked": false,
+        "disliked": false
+    },
+    "time": {
+        "current": 0,
+        "total": 0
+    },
+    "songLyrics": null,
+    "shuffle": "ALL_SHUFFLE",
+    "repeat": "NO_REPEAT"
+}

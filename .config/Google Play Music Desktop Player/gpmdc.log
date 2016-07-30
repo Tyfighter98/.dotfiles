@@ -1,0 +1,16 @@
+{"level":"info","message":"Application started.","timestamp":"2016-07-20T00:18:57.491Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2016-07-20T00:18:58.087Z"}
+{"level":"error","message":"Could not initialize bonjour service with error: {}","timestamp":"2016-07-20T00:20:06.676Z"}
+{"level":"info","message":"Application started.","timestamp":"2016-07-20T21:20:37.859Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2016-07-20T21:20:39.562Z"}
+{"level":"error","message":"Could not initialize bonjour service with error: {}","timestamp":"2016-07-20T21:20:39.803Z"}
+{"level":"info","message":"Application started.","timestamp":"2016-07-20T21:22:55.181Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2016-07-20T21:22:55.422Z"}
+{"level":"error","message":"Could not initialize bonjour service with error: {}","timestamp":"2016-07-20T21:22:55.465Z"}
+{"level":"info","message":"Application started.","timestamp":"2016-07-21T04:09:44.698Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2016-07-21T04:09:46.608Z"}
+{"level":"error","message":"Could not initialize bonjour service with error: {}","timestamp":"2016-07-21T04:09:46.840Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2016-07-21T04:33:59.051Z"}
+{"level":"info","message":"Application started.","timestamp":"2016-07-30T18:51:47.442Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2016-07-30T18:51:49.228Z"}
+{"level":"error","message":"Could not initialize bonjour service with error: {}","timestamp":"2016-07-30T18:51:49.613Z"}

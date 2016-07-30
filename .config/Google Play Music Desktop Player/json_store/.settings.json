@@ -1,0 +1,31 @@
+{
+    "themeColor": "rgb(0, 150, 136)",
+    "themeType": "FULL",
+    "enableJSONApi": true,
+    "nativeFrame": false,
+    "auto-launch": false,
+    "uuid": "e5e114ca-b399-4d4e-bf30-671ca87b8147",
+    "maximized": false,
+    "position": [
+        0,
+        0
+    ],
+    "size": [
+        1920,
+        1055
+    ],
+    "lastPage": "https://play.google.com/music/listen#/now",
+    "welcomed": "3.3.0",
+    "scrollLyrics": false,
+    "playbackAPI": true,
+    "theme": true,
+    "warnMinToTray": false,
+    "mini-position": [
+        0,
+        -1
+    ],
+    "mini-size": [
+        310,
+        310
+    ]
+}
